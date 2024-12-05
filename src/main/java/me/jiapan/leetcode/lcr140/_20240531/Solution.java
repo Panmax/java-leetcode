@@ -1,4 +1,4 @@
-package me.jiapan.leetcode._lcr140._20240531;
+package me.jiapan.leetcode.lcr140._20240531;
 
 class ListNode {
     int val;
